@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.app.goo.gl/ZCEQdM1QUrXPk8n56"  />
+<img align="right" height="150" src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/inline-tsrs-700.gif"  />
 
 ###
 
