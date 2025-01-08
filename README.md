@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Building Gen Ai Models ...<br>📚 I'm currently learning LLM and GEN AI ...<br>🎯 Goals: Will be a AI/ML Scientist<br>🎲 Fun fact: Machine Learning :-) </p>
+<p align="left">✨ Building Gen Ai Models<br>📚 I'm currently learning LLM and GEN AI<br>🎯 Goals: Will be a AI/ML Scientist<br>🎲 Fun fact: Machine Learning 😊 </p>
 
 ###
 
