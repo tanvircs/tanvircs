@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">This is Tanvir Ahmed.</h2>
+<h2 align="left">This is Tanvir Ahmed</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Building Gen Ai Models ...<br>📚 I'm currently learning LLM and GEN AI ...<br>🎯 Goals: Will be a AI/ML Scientist<br>🎲 Fun fact: Machine Learning :-) </p>
 
 ###
 
