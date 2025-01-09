@@ -23,7 +23,10 @@
 - 📚 Currently diving deeper into **GenAI**, **MLOps**, and **Deep Learning**.
 - 🧑‍🔬 Researcher with 7+ publications in **Machine Learning**, **NLP**, and **Deep Learning** domains.
 - 🎯 Aspiring to become an **AI/ML Scientist** to solve real-world problems using cutting-edge technology.
-- 🌟 Fun fact: I enjoy uncovering hidden patterns in data and making predictions!
+- 🌟 **Fun Fact**: I enjoy uncovering hidden patterns in data and making predictions.
+
+#### 💡 Personal Statement:
+My ultimate goal is to bridge the gap between research and industry by contributing to groundbreaking innovations in **AI/ML**. I am passionate about leveraging my expertise in **deep learning**, **computer vision**, and **NLP** to create scalable solutions that impact industries globally. In my free time, I enjoy **traveling**, **hiking**, **driving**, and **playing badminton**, which help me unwind and fuel my creativity.
 
 ---
 
@@ -143,15 +146,6 @@
 - **LinkedIn**: [Tanvir Ahmed](https://www.linkedin.com/in/badhon-007v1/)  
 - **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
 - **ResearchGate**: [Tanvir Ahmed](https://www.researchgate.net/profile/Tanvir_Ahmed106)  
-
----
-
-### 🎉 Hobbies & Interests
-- Traveling  
-- Coding  
-- Driving  
-- Hiking  
-- Playing (Badminton)  
 
 ---
 
