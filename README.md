@@ -27,10 +27,17 @@
 
 ---
 
-### 🔖 Certifications
-- **AWS Certified Developer – Associate**  
-  ![AWS Badge](https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-Developer-Associate-2020.png)  
-  [Verify Credential](https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b)
+### 🛠️ My Technical Experience & Interests:
+- **Deep Learning**
+- **Machine Learning**
+- **Computer Vision**
+- **Natural Language Processing (NLP)**
+- **MLOps**
+- **Generative AI**
+- **Robotics**
+- **DevOps**
+- **Cloud Computing**
+- **Cyber Security**
 
 ---
 
@@ -45,19 +52,6 @@
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/FastAI-7952B3?style=for-the-badge&logoColor=white" alt="FastAI" />
-  <img src="https://img.shields.io/badge/XGBoost-0099CC?style=for-the-badge&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/CatBoost-00A99D?style=for-the-badge&logoColor=white" alt="CatBoost" />
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/DeepSpeed-00599C?style=for-the-badge&logoColor=white" alt="DeepSpeed" />
-  <img src="https://img.shields.io/badge/H2O.ai-1C4E80?style=for-the-badge&logoColor=white" alt="H2O.ai" />
-  <img src="https://img.shields.io/badge/Apache%20MXNet-E85285?style=for-the-badge&logo=apache&logoColor=white" alt="Apache MXNet" />
-  <img src="https://img.shields.io/badge/Neural%20Network%20Libraries-222222?style=for-the-badge&logo=neural-network&logoColor=white" alt="Neural Network Libraries" />
-  <img src="https://img.shields.io/badge/AllenNLP-072B5B?style=for-the-badge&logoColor=white" alt="AllenNLP" />
-  <img src="https://img.shields.io/badge/DGL%20(Deep%20Graph%20Library)-FFD700?style=for-the-badge&logoColor=black" alt="Deep Graph Library" />
-  <img src="https://img.shields.io/badge/PyTorch%20Geometric-FF4500?style=for-the-badge&logoColor=white" alt="PyTorch Geometric" />
 </div>
 
 #### MLOps & Deployment:
@@ -67,9 +61,6 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </div>
 
 #### Data Analytics & Visualization:
@@ -78,8 +69,6 @@
   <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Dask-FFAA00?style=for-the-badge&logoColor=black" alt="Dask" />
 </div>
 
 ---
@@ -141,6 +130,15 @@
 - **LinkedIn**: [Tanvir Ahmed](https://www.linkedin.com/in/badhon-007v1/)  
 - **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
 - **ResearchGate**: [Tanvir Ahmed](https://www.researchgate.net/profile/Tanvir_Ahmed106)  
+
+---
+
+### 🎉 Hobbies & Interests
+- Traveling  
+- Coding  
+- Driving  
+- Hiking  
+- Playing (Badminton)  
 
 ---
 
