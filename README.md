@@ -27,6 +27,13 @@
 
 ---
 
+### 🔖 Certifications
+- **AWS Certified Developer – Associate**  
+  ![AWS Badge](https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-Developer-Associate-2020.png)  
+  [Verify Credential](https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b)
+
+---
+
 ### 🛠️ My Technical Experience & Interests:
 - **Deep Learning**
 - **Machine Learning**
