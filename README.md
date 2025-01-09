@@ -19,11 +19,18 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate about designing scalable AI/ML solutions for real-world problems.
-- 🧠 Focused on **Generative AI**, **Large Language Models (LLMs)**, and **Deep Learning**.
-- 🧑‍🔬 Researcher with 7+ publications in **Machine Learning**, **NLP**, and **AI**.
-- 🎯 Aspiring to bridge the gap between research and industry as an **AI/ML Scientist**.
+- 🧠 Passionate about **AI/ML**, **Generative AI**, and **Large Language Models (LLMs)**.
+- 📚 Currently diving deeper into **GenAI**, **MLOps**, and **Deep Learning**.
+- 🧑‍🔬 Researcher with 7+ publications in **Machine Learning**, **NLP**, and **Deep Learning** domains.
+- 🎯 Aspiring to become an **AI/ML Scientist** to solve real-world problems using cutting-edge technology.
 - 🌟 Fun fact: I enjoy uncovering hidden patterns in data and making predictions!
+
+---
+
+### 🔖 Certifications
+- **AWS Certified Developer – Associate**  
+  ![AWS Badge](https://images.credly.com/size/220x220/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-Developer-Associate-2020.png)  
+  [Verify Credential](https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b)
 
 ---
 
@@ -38,6 +45,9 @@
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/FastAI-7952B3?style=for-the-badge&logoColor=white" alt="FastAI" />
+  <img src="https://img.shields.io/badge/XGBoost-0099CC?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM" />
 </div>
 
 #### MLOps & Deployment:
@@ -47,6 +57,9 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </div>
 
 #### Data Analytics & Visualization:
@@ -55,7 +68,28 @@
   <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Dask-FFAA00?style=for-the-badge&logoColor=black" alt="Dask" />
 </div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+</picture>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
@@ -89,25 +123,6 @@
 - **Generative AI for Text Summarization**  
   Designed a GenAI model for summarizing research papers, reducing reading time by 50%.  
   [View Repository](#)
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-</picture>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
 
 ---
 
