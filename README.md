@@ -1,6 +1,7 @@
-<p align="center" height=50px>
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.webp" alt="Tanvir Ahmed GitHub Banner">
+<p align="center" style="height: 50px; overflow: hidden;">
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.webp" alt="Tanvir Ahmed GitHub Banner" style="height: 100%; object-fit: cover;">
 </p>
+
 
 <p align="center">
   <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
