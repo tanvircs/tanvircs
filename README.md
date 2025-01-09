@@ -1,48 +1,8 @@
-<h1 align="center">
-  👋 Hi there, I'm
-</h1>
+<h1 align="center">👋 Hi there, I'm</h1>
 
-<div align="center">
-  <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes bounce {
-        0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-        40% { transform: translateY(-20px); }
-        60% { transform: translateY(-10px); }
-      }
-
-      .letter {
-        font-family: 'Arial', sans-serif;
-        font-size: 50px;
-        font-weight: bold;
-        animation: bounce 1.5s infinite;
-      }
-
-      .letter:nth-child(1) { fill: #FF5733; animation-delay: 0s; }
-      .letter:nth-child(2) { fill: #33FF57; animation-delay: 0.2s; }
-      .letter:nth-child(3) { fill: #5733FF; animation-delay: 0.4s; }
-      .letter:nth-child(4) { fill: #FFD700; animation-delay: 0.6s; }
-      .letter:nth-child(5) { fill: #FF33A1; animation-delay: 0.8s; }
-      .letter:nth-child(6) { fill: #33FFF5; animation-delay: 1s; }
-      .letter:nth-child(7) { fill: #F033FF; animation-delay: 1.2s; }
-      .letter:nth-child(8) { fill: #33FFA6; animation-delay: 1.4s; }
-      .letter:nth-child(9) { fill: #FFA533; animation-delay: 1.6s; }
-      .letter:nth-child(10) { fill: #3357FF; animation-delay: 1.8s; }
-      .letter:nth-child(11) { fill: #FF5733; animation-delay: 2s; }
-    </style>
-    <text x="50" y="100" class="letter">T</text>
-    <text x="90" y="100" class="letter">A</text>
-    <text x="130" y="100" class="letter">N</text>
-    <text x="170" y="100" class="letter">V</text>
-    <text x="210" y="100" class="letter">I</text>
-    <text x="250" y="100" class="letter">R</text>
-    <text x="290" y="100" class="letter">A</text>
-    <text x="330" y="100" class="letter">H</text>
-    <text x="370" y="100" class="letter">M</text>
-    <text x="410" y="100" class="letter">E</text>
-    <text x="450" y="100" class="letter">D</text>
-  </svg>
-</div>
+<p align="center">
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
+</p>
 
 ---
 
@@ -116,7 +76,8 @@
 
 <h2 align="left">📬 Let's Connect!</h2>
 
-- 💼 [LinkedIn](https://linkedin.com/in/tanvirahmedcs)  
-- 🌐 [Portfolio](https://tanvirahmed.dev)  
-- 📫 tanvir.ahmed.ml@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/badhon-007v1/)  
+- 🌐 [Portfolio](https://t-ahmed.com/)  
+- 📫 tanvirahmed.cs.93@gmail.com  
+ 
 
