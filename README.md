@@ -7,55 +7,78 @@
 ---
 
 <p align="center">
-  🚀 <strong>AI/ML Engineer</strong> | Aspiring <strong>AI/ML Scientist</strong> | Lifelong Learner
+  <strong>🚀 AI/ML Engineer | Aspiring AI/ML Scientist | Data Enthusiast</strong>  
 </p>
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 Bachelor's & Master's in Computer Science  
-- 🌟 Currently building GenAI models and exploring advanced AI/ML techniques  
-- 📖 Learning: Large Language Models (LLMs) and Generative AI  
-- 🎯 Career Goal: To innovate as an AI/ML Scientist, leveraging AI to solve real-world challenges  
-- ✨ Fun Fact: I find joy in solving complex machine learning puzzles!  
+<p align="center">
+  🎓 <strong>Master's and Bachelor's in Computer Science</strong><br>
+  🌟 <strong>Passionate about solving real-world problems through Artificial Intelligence and Machine Learning.</strong><br>
+  🌐 Expertise in <strong>Deep Learning, Natural Language Processing (NLP), and Data Analytics.</strong><br>
+  🛠️ <strong>Building Generative AI models</strong> and exploring advanced techniques like <strong>LLMs</strong>.<br>
+  🌱 Constant learner striving to stay ahead in the ever-evolving world of AI/ML.<br>
+  🎯 Career Goal: To innovate as an AI/ML Scientist and make impactful contributions.<br>
+</p>
 
 ---
 
-<h2 align="left">⚙️ My Tech Toolbox</h2>
+<h2 align="center">⚙️ Tech Toolbox</h2>
 
-<div align="left">
+<div align="center">
+  <!-- Core AI/ML Frameworks -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Hugging--Face-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Transformers-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+
+  <!-- NLP Tools -->
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
   <img src="https://img.shields.io/badge/LangChain-FF7F50?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+
+  <!-- MLOps & Deployment -->
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Robot%20Framework-9B78FB?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework" />
-  <img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
+  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning" />
 </div>
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="center">📂 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Generative AI Chatbot</strong></td>
+    <td>An advanced chatbot leveraging LLMs and Hugging Face Transformers for personalized conversations.</td>
+    <td><a href="https://github.com/tanvircs/genai-chatbot">GitHub Repo</a></td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Sales Forecasting Model</strong></td>
+    <td>Developed a machine learning model for predicting sales trends using time series data and TensorFlow.</td>
+    <td><a href="https://github.com/tanvircs/sales-forecasting">GitHub Repo</a></td>
+  </tr>
+  <tr>
+    <td>🛡️ <strong>Cybersecurity Threat Detection</strong></td>
+    <td>Implemented an NLP-based system for detecting Advanced Persistent Threats (APTs) in enterprise environments.</td>
+    <td><a href="https://github.com/tanvircs/cyber-threat-detection">GitHub Repo</a></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=github_dark" height="160" alt="GitHub stats" />
@@ -64,7 +87,7 @@
 
 ---
 
-<h2 align="left">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
@@ -74,10 +97,11 @@
 
 ---
 
-<h2 align="left">📬 Let's Connect!</h2>
+<h2 align="center">📬 Let's Connect!</h2>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/badhon-007v1/)  
-- 🌐 [Portfolio](https://t-ahmed.com/)  
-- 📫 tanvirahmed.cs.93@gmail.com  
+<p align="center">
+  💼 <a href="https://www.linkedin.com/in/badhon-007v1/">LinkedIn</a> | 🌐 <a href="https://t-ahmed.com/">Portfolio</a> | 📫 <a href="mailto:tanvir.ahmed.ml@gmail.com">Email</a>
+</p>
+ 
  
 
