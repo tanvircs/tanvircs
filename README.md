@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm</h1>
 
 <p align="center" height="50px">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" height="50px" />
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" height="150px" />
 </p>
 
 ---
