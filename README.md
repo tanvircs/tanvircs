@@ -63,6 +63,21 @@
   <img src="https://img.shields.io/badge/CI--CD-065535?style=for-the-badge&logo=continuous-integration&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Google%20AI%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google AI Platform" />
   <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF5733?style=for-the-badge&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLM-F7A800?style=for-the-badge&logoColor=white" alt="LLM (Large Language Models)" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0E76A8?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/DevOps-4CAF50?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-42A5F5?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/CI%2FCD-065535?style=for-the-badge&logo=ci-cd&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=for-the-badge&logoColor=white" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2E8B57?style=for-the-badge&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Big%20Data-0078D7?style=for-the-badge&logo=big-data&logoColor=white" alt="Big Data" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
 </div>
 
 
