@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.webp" alt="Tanvir Ahmed GitHub Banner">
+</p>
+
+<p align="center">
   <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
 </p>
 
