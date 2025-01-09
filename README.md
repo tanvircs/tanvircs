@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm</h1>
 
 <p align="center" height="50px">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" height="150px" />
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" height="200px" />
 </p>
 
 ---
@@ -48,7 +48,23 @@
   <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
   <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Dask-FFAA00?style=for-the-badge&logoColor=black" alt="Dask" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/CI--CD-065535?style=for-the-badge&logo=continuous-integration&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google AI Platform" />
+  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
 </div>
+
 
 ---
 
