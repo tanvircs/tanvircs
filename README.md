@@ -1,5 +1,5 @@
 <p align="center" style="height: 50px; overflow: hidden;">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.webp" alt="Tanvir Ahmed GitHub Banner" style="height: 100%; object-fit: cover;">
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.png" alt="Tanvir Ahmed GitHub Banner" style="height: 100%; object-fit: cover;">
 </p>
 
 
