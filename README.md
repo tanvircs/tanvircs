@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm</h1>
 
 <p align="center">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
+  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" height="200px" />
 </p>
 
 ---
@@ -36,17 +36,18 @@
   <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-
-  <!-- NLP Tools -->
+  <img src="https://img.shields.io/badge/XGBoost-0099CC?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-F0DB4F?style=for-the-badge&logoColor=black" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/FastAI-7952B3?style=for-the-badge&logoColor=white" alt="FastAI" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
-  <img src="https://img.shields.io/badge/LangChain-FF7F50?style=for-the-badge" alt="LangChain" />
-
-  <!-- MLOps & Deployment -->
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
   <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
 ---
@@ -102,6 +103,7 @@
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/badhon-007v1/">LinkedIn</a> | 🌐 <a href="https://t-ahmed.com/">Portfolio</a> | 📫 <a href="mailto:tanvir.ahmed.ml@gmail.com">Email</a>
 </p>
+
  
  
 
