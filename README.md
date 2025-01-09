@@ -45,18 +45,40 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Generative%20AI-FF5733?style=for-the-badge&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLM-F7A800?style=for-the-badge&logoColor=white" alt="LLM (Large Language Models)" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0E76A8?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge&logoColor=white" alt="Natural Language Processing" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Big%20Data-0078D7?style=for-the-badge&logo=big-data&logoColor=white" alt="Big Data" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=for-the-badge&logoColor=white" alt="Distributed Systems" />
 </div>
+
+---
+
+### 📂 Featured Research
+
+#### 📜 Publications:
+1. [Sentiment Analysis of COVID-19 Vaccination Impact on Twitter Tweets Using NLP Supervised Learning and RNN Classification Comparison](https://ieeexplore.ieee.org/abstract/document/10609886)  
+2. [A Study on AI for Agricultural Decision-Making](https://ieeexplore.ieee.org/abstract/document/10609927)  
+3. [Vision Transformer Models for Cancer Classification](https://ieeexplore.ieee.org/abstract/document/10609953)  
+4. [Authentication of Mobile Sensor Data Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10609925)  
+5. [Advances in Secure IoT Communication](https://link.springer.com/chapter/10.1007/978-981-97-6106-7_15)  
+6. [Retail Analytics Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/10459734)  
+7. [Master's Thesis: Deep Learning for Cybersecurity](https://www.proquest.com/openview/b01df5dde9b28eeefad90b6ba4b75bab/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+#### 🔗 Academic Profiles:
+- **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
+- **ResearchGate**: [Tanvir Ahmed](https://www.researchgate.net/profile/Tanvir_Ahmed106)
+
+---
+
+### 🌟 Projects
+
+- **Automated Test Case Generation for Automotive Systems**  
+  A Python-based automation tool that dynamically maps test plans to vehicle specifications, enhancing efficiency by 40%.  
+  [View Repository](#)
+
+- **AI-Powered Retail Analytics**  
+  Built machine learning models for demand forecasting and customer behavior prediction, achieving 92% accuracy.  
+  [View Repository](#)
+
+- **Generative AI for Text Summarization**  
+  Designed a GenAI model for summarizing research papers, reducing reading time by 50%.  
+  [View Repository](#)
 
 ---
 
@@ -88,6 +110,7 @@
 ---
 
 Thank you for visiting my GitHub profile! 😊 Feel free to explore my repositories and connect with me for collaborations!
+
 
 
 
