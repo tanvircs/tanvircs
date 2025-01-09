@@ -29,7 +29,9 @@
 
 ### 🔖 Certifications
 - **AWS Certified Developer – Associate**  
-  ![AWS Badge](<img src="https://github.com/tanvircs/tanvircs/raw/main/aws.png" alt="Tanvir Ahmed AWS" style="height: 10%; object-fit: cover;">)  
+   <p align="center">
+    <img src="https://github.com/tanvircs/tanvircs/raw/main/aws.png" alt="AWS Badge" width="150" />
+  </p> 
   [Verify Credential](https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b)
 
 ---
