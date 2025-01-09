@@ -38,47 +38,30 @@
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/XGBoost-0099CC?style=for-the-badge&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/CatBoost-F0DB4F?style=for-the-badge&logoColor=black" alt="CatBoost" />
   <img src="https://img.shields.io/badge/FastAI-7952B3?style=for-the-badge&logoColor=white" alt="FastAI" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker" />
-  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Dask-FFAA00?style=for-the-badge&logoColor=black" alt="Dask" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/CI--CD-065535?style=for-the-badge&logo=continuous-integration&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google AI Platform" />
-  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
   <img src="https://img.shields.io/badge/Generative%20AI-FF5733?style=for-the-badge&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLM-F7A800?style=for-the-badge&logoColor=white" alt="LLM (Large Language Models)" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/Machine%20Learning-0E76A8?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/DevOps-4CAF50?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-42A5F5?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/CI%2FCD-065535?style=for-the-badge&logo=ci-cd&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=for-the-badge&logoColor=white" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2E8B57?style=for-the-badge&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Big%20Data-0078D7?style=for-the-badge&logo=big-data&logoColor=white" alt="Big Data" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge&logoColor=white" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Big%20Data-0078D7?style=for-the-badge&logo=big-data&logoColor=white" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=for-the-badge&logoColor=white" alt="Distributed Systems" />
 </div>
+
 
 
 ---
