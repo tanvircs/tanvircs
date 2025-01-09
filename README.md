@@ -45,7 +45,39 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Generative%20AI-FF5733?style=for-the-badge&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLM-F7A800?style=for-the-badge&logoColor=white" alt="LLM (Large Language Models)" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0E76A8?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge&logoColor=white" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Ray-FF5500?style=for-the-badge&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/TensorRT-00BFFF?style=for-the-badge&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Big%20Data-0078D7?style=for-the-badge&logo=big-data&logoColor=white" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-FF4500?style=for-the-badge&logoColor=white" alt="Distributed Systems" />
 </div>
+
+
+---
+
+
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+</picture>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
@@ -82,24 +114,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-</picture>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with Me
 - **Portfolio**: [Tanvir Ahmed](https://t-ahmed.com/)  
