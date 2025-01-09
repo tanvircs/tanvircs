@@ -48,6 +48,16 @@
   <img src="https://img.shields.io/badge/FastAI-7952B3?style=for-the-badge&logoColor=white" alt="FastAI" />
   <img src="https://img.shields.io/badge/XGBoost-0099CC?style=for-the-badge&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-00A99D?style=for-the-badge&logoColor=white" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/DeepSpeed-00599C?style=for-the-badge&logoColor=white" alt="DeepSpeed" />
+  <img src="https://img.shields.io/badge/H2O.ai-1C4E80?style=for-the-badge&logoColor=white" alt="H2O.ai" />
+  <img src="https://img.shields.io/badge/Apache%20MXNet-E85285?style=for-the-badge&logo=apache&logoColor=white" alt="Apache MXNet" />
+  <img src="https://img.shields.io/badge/Neural%20Network%20Libraries-222222?style=for-the-badge&logo=neural-network&logoColor=white" alt="Neural Network Libraries" />
+  <img src="https://img.shields.io/badge/AllenNLP-072B5B?style=for-the-badge&logoColor=white" alt="AllenNLP" />
+  <img src="https://img.shields.io/badge/DGL%20(Deep%20Graph%20Library)-FFD700?style=for-the-badge&logoColor=black" alt="Deep Graph Library" />
+  <img src="https://img.shields.io/badge/PyTorch%20Geometric-FF4500?style=for-the-badge&logoColor=white" alt="PyTorch Geometric" />
 </div>
 
 #### MLOps & Deployment:
