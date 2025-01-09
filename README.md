@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" height=50px>
   <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.webp" alt="Tanvir Ahmed GitHub Banner">
 </p>
 
