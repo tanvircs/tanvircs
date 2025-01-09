@@ -32,7 +32,11 @@
    <p align="center">
     <img src="https://github.com/tanvircs/tanvircs/raw/main/aws.png" alt="AWS Badge" width="150" />
   </p> 
-  [Verify Credential](https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b)
+  <p align="center">
+    <a href="https://www.credly.com/badges/c291cf25-b292-4b8d-b83a-45af9322026b" target="_blank">
+      <img src="https://img.shields.io/badge/Verify%20Credential-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Verify Credential">
+    </a>
+  </p>
 
 ---
 
