@@ -1,0 +1,45 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+  <style>
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+      40% { transform: translateY(-30px); }
+      60% { transform: translateY(-15px); }
+    }
+
+    @keyframes glow {
+      0%, 100% { fill-opacity: 1; filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8)); }
+      50% { fill-opacity: 0.8; filter: drop-shadow(0 0 20px rgba(255, 255, 255, 1)); }
+    }
+
+    .letter {
+      font-family: 'Courier New', monospace;
+      font-size: 70px;
+      font-weight: bold;
+      animation: bounce 1.8s infinite, glow 2s infinite;
+    }
+
+    .letter:nth-child(1) { fill: #FF4500; animation-delay: 0s; }
+    .letter:nth-child(2) { fill: #32CD32; animation-delay: 0.2s; }
+    .letter:nth-child(3) { fill: #1E90FF; animation-delay: 0.4s; }
+    .letter:nth-child(4) { fill: #FFD700; animation-delay: 0.6s; }
+    .letter:nth-child(5) { fill: #FF1493; animation-delay: 0.8s; }
+    .letter:nth-child(6) { fill: #20B2AA; animation-delay: 1s; }
+    .letter:nth-child(7) { fill: #BA55D3; animation-delay: 1.2s; }
+    .letter:nth-child(8) { fill: #FF6347; animation-delay: 1.4s; }
+    .letter:nth-child(9) { fill: #4682B4; animation-delay: 1.6s; }
+    .letter:nth-child(10) { fill: #00FF7F; animation-delay: 1.8s; }
+    .letter:nth-child(11) { fill: #8A2BE2; animation-delay: 2s; }
+  </style>
+  <text x="60" y="150" class="letter">T</text>
+  <text x="110" y="150" class="letter">a</text>
+  <text x="160" y="150" class="letter">N</text>
+  <text x="210" y="150" class="letter">v</text>
+  <text x="260" y="150" class="letter">I</text>
+  <text x="310" y="150" class="letter">r</text>
+  <text x="400" y="150" class="letter">A</text>
+  <text x="460" y="150" class="letter">h</text>
+  <text x="520" y="150" class="letter">M</text>
+  <text x="580" y="150" class="letter">e</text>
+  <text x="640" y="150" class="letter">D</text>
+</svg>
