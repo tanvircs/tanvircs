@@ -127,9 +127,9 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 ### 🌟 Projects
 
-- **Automated Test Case Generation for Automotive Systems**  
-  A Python-based automation tool that dynamically maps test plans to vehicle specifications, enhancing efficiency by 40%.  
-  [View Repository](#)
+- **Interview-Question-Creator-Project**  
+  A Python-based moducal programming approaach inlcuding fornet end UI to upload pdf and generate questions and asnwers.  
+  [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/Langchain-Projects/Interview-Question-Answer-Bot)
 
 - **AI-Powered Retail Analytics**  
   Built machine learning models for demand forecasting and customer behavior prediction, achieving 92% accuracy.  
