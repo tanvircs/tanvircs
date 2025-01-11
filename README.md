@@ -129,7 +129,7 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 - **FastAPI PDF Analysis and Question-Answer Generator**  
   This project leverages FastAPI to create a web application that allows users to upload PDF documents, analyzes the content, and generates question-answer pairs based on the text extracted from the PDFs. It uses the LangChain library for natural language processing, specifically utilizing models like GPT-3.5-turbo to generate and refine questions and answers.  
-  [View Repository](https://github.com/tanvircs/FastAPI-PDF-QnA-Generator)
+  [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/Langchain-Projects/Interview-Question-Answer-Bot)
 
 - **AI-Powered Retail Analytics**  
   Built machine learning models for demand forecasting and customer behavior prediction, achieving 92% accuracy.  
