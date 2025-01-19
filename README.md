@@ -2,10 +2,10 @@
   <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.png" alt="Tanvir Ahmed GitHub Banner" style="height: 100%; object-fit: cover;">
 </p>
 
-<h1 align="center">👋 Hi there, I'm</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
+  🎓 AI/ML Engineer | Researcher | Data Scientist | Lifelong Learner
 </p>
 
 ---
