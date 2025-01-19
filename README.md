@@ -2,15 +2,7 @@
   <img src="https://github.com/tanvircs/tanvircs/raw/main/banner.png" alt="Tanvir Ahmed GitHub Banner" style="height: 100%; object-fit: cover;">
 </p>
 
-<h1 align="center">👋 Hi there, I'm</h1>
-
-<p align="center">
-  <img src="https://github.com/tanvircs/tanvircs/raw/main/TanvirAhmed.svg" alt="Tanvir Ahmed Artistic Animated Name" />
-</p>
-
----
-
-<h1 align="center">Welcome to My GitHub Profile!</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
   🎓 AI/ML Engineer | Researcher | Data Scientist | Lifelong Learner
@@ -18,19 +10,21 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🧠 Passionate about **AI/ML**, **Generative AI**, and **Large Language Models (LLMs)**.
 - 📚 Currently diving deeper into **GenAI**, **MLOps**, and **Deep Learning**.
 - 🧑‍🔬 Researcher with 7+ publications in **Machine Learning**, **NLP**, and **Deep Learning** domains.
 - 🎯 Aspiring to become an **AI/ML Scientist** to solve real-world problems using cutting-edge technology.
 - 🌟 **Fun Fact**: I enjoy uncovering hidden patterns in data and making predictions.
 
-#### 💡 Personal Statement:
+### 💡 Personal Statement
 My ultimate goal is to bridge the gap between research and industry by contributing to groundbreaking innovations in **AI/ML**. I am passionate about leveraging my expertise in **deep learning**, **computer vision**, and **NLP** to create scalable solutions that impact industries globally. In my free time, I enjoy **traveling**, **hiking**, **driving**, and **playing badminton**, which help me unwind and fuel my creativity.
 
 ---
 
-### 🔖 Certifications
+## 🔖 Certifications and Technical Skills
+
+### Certifications
 - **AWS Certified Developer – Associate**  
    <p align="center">
     <img src="https://github.com/tanvircs/tanvircs/raw/main/aws.png" alt="AWS Badge" width="150" />
@@ -41,23 +35,7 @@ My ultimate goal is to bridge the gap between research and industry by contribut
     </a>
   </p>
 
----
-
-### 🛠️ My Technical Experience & Interests:
-- **Deep Learning**
-- **Machine Learning**
-- **Computer Vision**
-- **Natural Language Processing (NLP)**
-- **MLOps**
-- **Generative AI**
-- **Robotics**
-- **DevOps**
-- **Cloud Computing**
-- **Cyber Security**
-
----
-
-### 🚀 Technical Skills
+### Technical Skills
 
 #### Core AI/ML Tools:
 <div align="center">
@@ -95,44 +73,9 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🚀 Explore My Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
-</picture>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
-### 📂 Featured Research
-
-#### 📜 Publications:
-1. [Sentiment Analysis of COVID-19 Vaccination Impact on Twitter Tweets Using NLP Supervised Learning and RNN Classification Comparison](https://ieeexplore.ieee.org/abstract/document/10609886)  
-2. [A Study on AI for Agricultural Decision-Making](https://ieeexplore.ieee.org/abstract/document/10609927)  
-3. [Vision Transformer Models for Cancer Classification](https://ieeexplore.ieee.org/abstract/document/10609953)  
-4. [Authentication of Mobile Sensor Data Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10609925)  
-5. [Advances in Secure IoT Communication](https://link.springer.com/chapter/10.1007/978-981-97-6106-7_15)  
-6. [Retail Analytics Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/10459734)  
-7. [Master's Thesis: Deep Learning for Cybersecurity](https://www.proquest.com/openview/b01df5dde9b28eeefad90b6ba4b75bab/1?pq-origsite=gscholar&cbl=18750&diss=y)
-
-#### 🔗 Academic Profiles:
-- **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
-- **ResearchGate**: [Tanvir Ahmed](https://www.researchgate.net/profile/Tanvir_Ahmed106)
-
----
-
-### 🚀 Featured Projects
-
+### 📂 Featured Projects
 #### 1️⃣ Sentiment Analysis of COVID-19 Vaccination on Twitter
 - **Description**: NLP and machine learning techniques are applied to analyze public sentiment on Twitter regarding COVID-19 vaccinations.
 - **Highlights**: Features like TF-IDF, Word2Vec, and visual outputs (word clouds, sentiment distribution) are included.
@@ -160,7 +103,38 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 ---
 
-### 📫 Connect with Me
+## 📜 Research Publications
+#### 📂 Featured Research
+1. [Sentiment Analysis of COVID-19 Vaccination Impact on Twitter Tweets Using NLP Supervised Learning and RNN Classification Comparison](https://ieeexplore.ieee.org/abstract/document/10609886)  
+2. [A Study on AI for Agricultural Decision-Making](https://ieeexplore.ieee.org/abstract/document/10609927)  
+3. [Vision Transformer Models for Cancer Classification](https://ieeexplore.ieee.org/abstract/document/10609953)  
+4. [Authentication of Mobile Sensor Data Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10609925)  
+5. [Advances in Secure IoT Communication](https://link.springer.com/chapter/10.1007/978-981-97-6106-7_15)  
+6. [Retail Analytics Using Machine Learning](https://ieeexplore.ieee.org/abstract/document/10459734)  
+7. [Master's Thesis: Deep Learning for Cybersecurity](https://www.proquest.com/openview/b01df5dde9b28eeefad90b6ba4b75bab/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tanvircs/tanvircs/output/github-snake.svg" />
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvircs&show_icons=true&theme=dracula" alt="Tanvir Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircs&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
 - **Portfolio**: [Tanvir Ahmed](https://t-ahmed.com/)  
 - **LinkedIn**: [Tanvir Ahmed](https://www.linkedin.com/in/badhon-007v1/)  
 - **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
