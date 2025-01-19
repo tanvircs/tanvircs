@@ -10,14 +10,6 @@
 
 ---
 
-<h1 align="center">Welcome to My GitHub Profile!</h1>
-
-<p align="center">
-  🎓 AI/ML Engineer | Researcher | Data Scientist | Lifelong Learner
-</p>
-
----
-
 ## 👨‍💻 About Me
 - 🧠 Passionate about **AI/ML**, **Generative AI**, and **Large Language Models (LLMs)**.
 - 📚 Currently diving deeper into **GenAI**, **MLOps**, and **Deep Learning**.
