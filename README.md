@@ -68,12 +68,12 @@ My ultimate goal is to bridge the gap between research and industry by contribut
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-8A2BE2?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Fine Tuning" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/LlamaIndex-FF1493?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/Langchain-0000CD?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Langchain" />
-  <img src="https://img.shields.io/badge/LLM-DAA520?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/Rag-F7931E?style=for-the-badge&logo=rag&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-FFB800?style=for-the-badge&logo=finetuning&logoColor=white" alt="Fine Tuning" />
+  <img src="https://img.shields.io/badge/Vertex--AI-FFB800?style=for-the-badge&logo=vertexai&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Llama--Index-F7931E?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Langchain-F7931E?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain" />
+  <img src="https://img.shields.io/badge/LLM-F7931E?style=for-the-badge&logo=llm&logoColor=white" alt="LLM" />
 </div>
 
 #### MLOps & Deployment:
