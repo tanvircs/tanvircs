@@ -68,6 +68,12 @@ My ultimate goal is to bridge the gap between research and industry by contribut
   <img src="https://img.shields.io/badge/Hugging--Face-FFB800?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Transformers-F4A261?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-8A2BE2?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Fine Tuning" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF1493?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Langchain-0000CD?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Langchain" />
+  <img src="https://img.shields.io/badge/LLM-DAA520?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="LLM" />
 </div>
 
 #### MLOps & Deployment:
@@ -125,19 +131,32 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 ---
 
-### 🌟 Projects
+### 🚀 Featured Projects
 
-- **FastAPI PDF Analysis and Question-Answer Generator**  
-  This project leverages FastAPI to create a web application that allows users to upload PDF documents, analyzes the content, and generates question-answer pairs based on the text extracted from the PDFs. It uses the LangChain library for natural language processing, specifically utilizing models like GPT-3.5-turbo to generate and refine questions and answers.  
-  [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/Langchain-Projects/Interview-Question-Answer-Bot)
+#### 1️⃣ Sentiment Analysis of COVID-19 Vaccination on Twitter
+- **Description**: NLP and machine learning techniques are applied to analyze public sentiment on Twitter regarding COVID-19 vaccinations.
+- **Highlights**: Features like TF-IDF, Word2Vec, and visual outputs (word clouds, sentiment distribution) are included.
+- [View Repository](https://github.com/tanvircs/Sentiment-Analysis-of-COVID-19-Vaccination-on-Twitter)
 
-- **AI-Powered Retail Analytics**  
-  Built machine learning models for demand forecasting and customer behavior prediction, achieving 92% accuracy.  
-  [View Repository](#)
+#### 2️⃣ AWS Machine Learning Pipeline
+- **Description**: End-to-end ML pipeline for deploying models on AWS with CI/CD using Docker, EC2, and ECR.
+- **Highlights**: Seamlessly integrates GitHub Actions with AWS services.
+- [View Repository](https://github.com/tanvircs/Aws-Machine-Learning-Pipeline)
 
-- **Generative AI for Text Summarization**  
-  Designed a GenAI model for summarizing research papers, reducing reading time by 50%.  
-  [View Repository](#)
+#### 3️⃣ Medical Chatbot with Generative AI
+- **Description**: AI-powered chatbot built using Flask, LangChain, Pinecone, and OpenAI GPT models.
+- **Highlights**: Provides accurate medical-related responses using contextual document retrieval.
+- [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/End-to-End-Projects/Medical-Chatbot)
+
+#### 4️⃣ Source Code Analysis with AI-Powered Chatbot
+- **Description**: Analyzes source code repositories and provides insights through an interactive chatbot.
+- **Highlights**: Utilizes LangChain, Chroma, and OpenAI GPT for conversational code retrieval.
+- [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/End-to-End-Projects/Source-Code-Analysis)
+
+#### 5️⃣ Interview Question Answer Bot
+- **Description**: Generates question-answer pairs from uploaded PDFs using FastAPI and LangChain.
+- **Highlights**: Processes content, creates Q&A, and outputs results in CSV format.
+- [View Repository](https://github.com/tanvircs/Gen-AI-Mastery-Projects/tree/main/Langchain-Projects/Interview-Question-Answer-Bot)
 
 ---
 
