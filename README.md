@@ -140,7 +140,7 @@ My ultimate goal is to bridge the gap between research and industry by contribut
 
 ## 📫 Connect with Me
 - **Portfolio**: [Tanvir Ahmed](https://t-ahmed.com/)  
-- **LinkedIn**: [Tanvir Ahmed](https://www.linkedin.com/in/badhon-007v1/)  
+- **LinkedIn**: [Tanvir Ahmed](https://www.linkedin.com/in/tahmed-cs93/)  
 - **Google Scholar**: [Tanvir Ahmed](https://scholar.google.com/citations?user=H-mZQuEAAAAJ&hl=en&oi=ao)  
 - **ResearchGate**: [Tanvir Ahmed](https://www.researchgate.net/profile/Tanvir_Ahmed106)  
 
